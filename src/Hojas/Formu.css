@@ -1,0 +1,28 @@
+.FormTarea {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.InputTarea {
+    width: 350px;
+    font-size: 18px;
+    background-color: white;
+    padding: 14px 32px 14px 16px;
+    border: 2px solid green;
+    outline: none;
+}
+
+.BotonTarea {
+    padding: 16px;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    outline: none;
+    background-color: rgb(131, 218, 32);
+    color: #fff;
+    text-transform: capitalize;
+}
